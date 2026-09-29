@@ -18,6 +18,10 @@
 ## 一键安装
 
 ```bash
+npx skills add laogu-caibao/laogu-screener
+```
+
+```bash
 # 方式一：clone 仓库
 git clone https://github.com/laogu-caibao/laogu-screener.git
 
